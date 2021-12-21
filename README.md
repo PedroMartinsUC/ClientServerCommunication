@@ -1,2 +1,2 @@
-# ProjetoRC
-Comunicação cliente-servidor e cliente-cliente
+# Client-Server Communication
+Cliente-Server communication project build in C for the course of Communications Networks.
